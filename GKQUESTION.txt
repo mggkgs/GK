@@ -1,22 +1,6 @@
-# developers
+Open up a text file and write one line of text. Save this file as “VCCourse_Challenge_2.txt.”
+Utilize Git Bash to upload and commit this file to your “Tech-Academy-Projects” repository on GitHub.
+HELPFUL HINT: Review this video for a reminder on how to use the Git Bash:
 
-This is the remote repository for the academy devs (students)
+Submit the link to your GitHub repository (with the VCCourse_Challenge_2.txt file in it) below:
 
-The purpose of this repository is for students to: 
-1. Practice forking projects to their GitHub accounts. 
-2. Cloning the project to their local machine. 
-3. Commit updates.
-4. Push changes back to their remote repository. 
-the tech academy  Developer Team Roster
--Ghebrehiwet Kidane . 
--Please type your first name and last initial on the proceeding lines...
-
-Samme Q.
-Peter R.
-Max J.
-John V.
-Andrew B.
-Aaron M.
-Joshua B.
-Dustin S.
-Ghebrehiwet Kidane.
